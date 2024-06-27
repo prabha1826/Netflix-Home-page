@@ -4,5 +4,5 @@
 
 ### Screenshot
 
-* Default 
+* Home page
 <img src="netflixoverview.png" width="100%">
